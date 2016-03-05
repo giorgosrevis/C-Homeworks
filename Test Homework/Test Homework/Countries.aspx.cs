@@ -32,5 +32,34 @@ namespace Test_Homework
         {
 
         }
+
+        protected void SearchMe_Click1(object sender, EventArgs e)
+        {
+
+        }
+        public static class FileOperations
+        {
+            public const string FilePath = "C:/Users/Sick/Documents/Homework/C#Homeworks/C-Homeworks/Test Homework/Test Homework/Database.txt";
+        }
+
+        protected void SearchMe_Click2(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void SearchMe_Click3(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void SearchMe_Click4(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void SearchMe_Click5(object sender, EventArgs e)
+        {
+
+        }
     }
 }
